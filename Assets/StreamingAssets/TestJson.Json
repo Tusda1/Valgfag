@@ -34,6 +34,21 @@
       "Speaker": "Narrator",
       "Text": "And in that moment, all was right with the world.",
       "Emotion": "Neutral"
+    },
+    {
+      "Npc": "Villager",
+      "Health": 100
+    },
+    {
+        "Npc": "Villager",
+        "Health": 100
+        },
+        {
+        "Npc": "Iron Golem",
+        "Health": 100,
+        "Damage": 10
+        },
+        {
     }
   ]
 }
